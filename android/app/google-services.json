@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "978023791755",
+    "firebase_url": "https://x-ray-simulator-60085-default-rtdb.firebaseio.com",
+    "project_id": "x-ray-simulator-60085",
+    "storage_bucket": "x-ray-simulator-60085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978023791755:android:3c512b9bcb2d22479fe88e",
+        "android_client_info": {
+          "package_name": "com.xpose.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978023791755-ublmtje0jts4qsmeg2o61gndobk63ede.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKdgIq-5Ie3DL4rk33mwV3k5nQAEGOUY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978023791755-ifcb9t392ll5l840phouq562bsh5lgb5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "978023791755-efp5suu1qbrki2kcbqs2s0qf6gtuc9q7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.curtin.xRaySimulator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
